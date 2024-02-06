@@ -4,11 +4,11 @@ An automatic1111 webui extension to load random images from a given folder as im
 
 ## Installation
 
-Go to the Extensions ▶ Install from URL tab in the webui, then paste `https://github.com/jmacc93/random_img2img_input` into the "URL for extension's git repository" box
+Go to the Extensions > Install from URL tab in the webui, then paste `https://github.com/jmacc93/random_img2img_input` into the "URL for extension's git repository" box
 
 Alternatively, in a terminal, `cd` to your `extensions` folder and use `git clone https://github.com/jmacc93/random_img2img_input`
 
-Or, download the zip file from github (the green Code button ▶ Download ZIP), extract it, and put that in your `extensions` folder
+Or, download the zip file from github (the green Code button > Download ZIP), extract it, and put that in your `extensions` folder
 
 ## How to use
 
